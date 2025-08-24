@@ -37,7 +37,7 @@ El script solicita credenciales y realiza automáticamente: <br/>
 - Detección de usuario. <br/>
 - Navegación hasta la sección de recompensas. <br/>
 
-Se puede ingresar un código manualmente desde consola o, en un futuro, obtenerlos desde una base de datos.
+Temporalmente se puede ingresar un código manualmente desde consola, en una actualización futura usaria una base de datos
 
 ### 🎮 Canje de códigos
 
