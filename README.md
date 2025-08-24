@@ -15,7 +15,7 @@ Colorama me permitio simplemente agregarle algo de colores a los logs en consola
 ### ⚙️ Funcionamiento
 
 Al ejecutar el script, se inicia un menú interactivo en consola con dos opciones: <br/>
-Opción 1: Inicia el proceso de scraping y canje automático.
+Opción 1: Inicia el proceso de scraping y canje automático. <br/>
 Opción 2: Permite configurar parámetros del navegador.
 
 ### 🔧 Configuración
