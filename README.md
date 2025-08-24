@@ -43,7 +43,6 @@ Se puede ingresar un código manualmente desde consola o, en un futuro, obtenerl
 
 - El script valida el código ingresado.
 - Si es válido → lo aplica a todos los juegos disponibles.
-
 - Si ya fue canjeado → muestra mensaje indicando el estado (ya utilizado o recompensa recibida).
 - Si es inválido o expiró → muestra un error en consola.
 
@@ -54,7 +53,8 @@ Esto automatiza el proceso de:
 - Canjear manualmente en cada juego válido.
 
 ### Imagenes de ejemplo:
-<img width="219" height="79" alt="Captura de pantalla 2025-08-10 093837" src="https://github.com/user-attachments/assets/bf36707d-29f3-44d9-931c-1e5268b2f5b3" />
-<img width="399" height="213" alt="Captura de pantalla 2025-08-10 093837" src="https://github.com/user-attachments/assets/5a897653-c251-4388-9cab-ec8c5d3f61d2" />
-<img width="399" height="213" alt="Captura de pantalla 2025-08-10 093837" src="https://github.com/user-attachments/assets/cb5d471f-50f7-4cc7-886e-380af73b360a" />
-<img width="399" height="213" alt="Captura de pantalla 2025-08-10 093837" src="https://github.com/user-attachments/assets/6e7aaac9-9522-4040-b62a-18fb61296bd3" />
+- Menu interactivo + configuraciones
+  <img width="386" height="223" alt="menu" src="https://github.com/user-attachments/assets/0646558e-6fa4-4878-873e-08ea3b7a6c58" />
+
+- Inicio del script + canjeo de juegos
+ <img width="347" height="271" alt="inicio" src="https://github.com/user-attachments/assets/8b0fae4a-c887-4abf-b092-a8824a377bef" />
