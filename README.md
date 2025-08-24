@@ -54,7 +54,7 @@ Esto automatiza el proceso de:
 
 ### Imagenes de ejemplo:
 - Menu interactivo + configuraciones <br/>
-  <img width="386" height="223" alt="menu" src="https://github.com/user-attachments/assets/0646558e-6fa4-4878-873e-08ea3b7a6c58" />
+<img width="386" height="223" alt="menu" src="https://github.com/user-attachments/assets/0646558e-6fa4-4878-873e-08ea3b7a6c58" />
 
 - Inicio del script + canjeo de juegos <br/>
- <img width="347" height="271" alt="inicio" src="https://github.com/user-attachments/assets/8b0fae4a-c887-4abf-b092-a8824a377bef" />
+<img width="347" height="271" alt="inicio" src="https://github.com/user-attachments/assets/8b0fae4a-c887-4abf-b092-a8824a377bef" />
