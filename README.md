@@ -24,7 +24,7 @@ Parámetros editables dentro del script:
 - HEADLESS: Mostrar u ocultar el navegador durante la ejecución.
 - VIEWPORT_WIDTH: Ancho del navegador (default: 1280px).
 - VIEWPORT_HEIGHT: Alto del navegador (default: 720px).
-- TIMEOUT: Tiempo de espera máximo para acciones con Playwright.
+- TIMEOUT: Tiempo de espera máximo para acciones con Playwright. <br />
 Opciones avanzadas:
 - USER_AGENT: Identificador del navegador (para evitar bloqueos en modo headless).
 - CHROMIUM_ARG: Lista de argumentos adicionales para la instancia de Chromium.
