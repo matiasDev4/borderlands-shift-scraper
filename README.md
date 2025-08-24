@@ -32,10 +32,10 @@ Opciones avanzadas:
 ### 🔑 Inicio de sesión
 
 Es necesario contar con una cuenta SHIFT.
-El script solicita credenciales y realiza automáticamente:
-Inicio de sesión.
-Detección de usuario.
-Navegación hasta la sección de recompensas.
+El script solicita credenciales y realiza automáticamente: <br/>
+- Inicio de sesión. <br/>
+- Detección de usuario. <br/>
+- Navegación hasta la sección de recompensas. <br/>
 
 Se puede ingresar un código manualmente desde consola o, en un futuro, obtenerlos desde una base de datos.
 
