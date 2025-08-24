@@ -4,10 +4,10 @@ Este script en Python permite scrapear la web de Shift Codes para canjear autom�
 ### 🛠 Librerías utilizadas
 
 [Playwright](https://playwright.dev/)
- → Para interactuar con sitios web dinámicos (relleno de formularios, clicks, detección de cambios en el DOM).
+- Para interactuar con sitios web dinámicos (relleno de formularios, clicks, detección de cambios en el DOM).
 
 [Colorama](https://recursospython.com/guias-y-manuales/colorama-texto-fondo-coloreados-la-consola/)
- → Para mejorar la visualización en consola con logs a color.
+- Para mejorar la visualización en consola con logs a color.
 
 Playwright siendo una libreria moderna, me permite interactuar con sitos webs dinamicos logrando relleno de formularios, clickear botones y detectar cambios en los elementos del DOM. <br/>
 Colorama me permitio simplemente agregarle algo de colores a los logs en consola para hacerlo mas comodo visualmente
@@ -42,9 +42,9 @@ Temporalmente se puede ingresar un código manualmente desde consola, en una act
 ### 🎮 Canje de códigos
 
 - El script valida el código ingresado.
-- Si es válido → lo aplica a todos los juegos disponibles.
-- Si ya fue canjeado → muestra mensaje indicando el estado (ya utilizado o recompensa recibida).
-- Si es inválido o expiró → muestra un error en consola.
+- Si es válido, lo aplica a todos los juegos disponibles.
+- Si ya fue canjeado, muestra mensaje indicando el estado (ya utilizado o recompensa recibida).
+- Si es inválido o expiró, muestra un error en consola.
 
 Esto automatiza el proceso de:
 
