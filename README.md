@@ -43,7 +43,7 @@ Temporalmente se puede ingresar un código manualmente desde consola, en una act
 
 - El script valida el código ingresado.
 - Si es válido, lo aplica a todos los juegos disponibles.
-- Si ya fue canjeado, muestra mensaje indicando el estado (ya utilizado o recompensa recibida).
+- Si ya fue canjeado, muestra un mensaje indicando el estado (ya utilizado o recompensa recibida).
 - Si es inválido o expiró, muestra un error en consola.
 
 Esto automatiza el proceso de:
