@@ -9,7 +9,7 @@ Este script en Python permite scrapear la web de Shift Codes para canjear autom�
 [Colorama](https://recursospython.com/guias-y-manuales/colorama-texto-fondo-coloreados-la-consola/)
  → Para mejorar la visualización en consola con logs a color.
 
-Playwright siendo una libreria moderna, me permite interactuar con sitos webs dinamicos logrando relleno de formularios, clickear botones y detectar cambios en los elementos del DOM
+Playwright siendo una libreria moderna, me permite interactuar con sitos webs dinamicos logrando relleno de formularios, clickear botones y detectar cambios en los elementos del DOM.
 Colorama me permitio simplemente agregarle algo de colores a los logs en consola para hacerlo mas comodo visualmente
 
 ### ⚙️ Funcionamiento
